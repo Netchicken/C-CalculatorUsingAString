@@ -35,6 +35,7 @@ namespace CalculatorUsingAString
             }
             // we need to split the calculation to an List
 
+
             CalcList.AddRange(Calc.Split(','));
             //BODMAS ()/*+-
 
